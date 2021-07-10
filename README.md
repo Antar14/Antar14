@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Antar
+- 👀 I’m interested in machine learning and apps development 
+- 🌱 I’m currently learning c++
